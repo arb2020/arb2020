@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 I'm Areeb
 
-<!--
-**arb2020/arb2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student interested in hardware engineering and communications.
 
-Here are some ideas to get you started:
+### 🔭 Current Work
+- Working on: Mini Stereo Digital Audio Processor
+- Exploring: SystemVerilog, UVM, and VHDL related tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Rust
+- UVM
+- Matlab
+- Simulink
+
+### 💬 Ask Me About
+- C programming
+- SystemVerilog Constructs—Synthesizable and Non-Synthesizable constructs
+- Scripting—TCL, Bash, Zsh
+
+### 📫 Contact
+- LinkedIn: https://linkedin.com/in/yourname
+- Email: areeb.iqbal@proton.me
