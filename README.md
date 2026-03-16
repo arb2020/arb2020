@@ -9,8 +9,9 @@ I'm a student interested in hardware engineering and communications.
 ### 🌱 Currently Learning
 - Rust
 - UVM
-- Matlab
-- Simulink
+- SystemVerilog, VHDL
+- DSP algorithms
+- MATLAB & Simulink
 
 ### 💬 Ask Me About
 - C programming
